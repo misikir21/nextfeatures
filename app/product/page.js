@@ -4,7 +4,7 @@ function page() {
   return (
     <div>
       <div>product</div>
-      <Link href="/">return TO HOME</Link>;
+      <Link href="/">return TO HOME</Link>
     </div>
   );
 }
